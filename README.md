@@ -1,1 +1,1 @@
-# Tasks from MySQL course.
+Tasks from MySQL course.
